@@ -1,0 +1,6 @@
+{
+  "level_name": "m1",
+  "display_name": "Quack",
+  "medal_times": [20, 25, 35, 40],
+  "is_automatically_unlocked": true,
+}
